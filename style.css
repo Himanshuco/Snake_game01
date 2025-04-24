@@ -29,7 +29,7 @@ h1 {
 #mycanvas {
     width: 80vmin;
     height: 80vmin;
-    background-image: url("Assets/bg.jpg");
+    background-image: url("assets/bg.jpg");
     background-size: cover;
     background-position: center;
     border: 8px solid green;
